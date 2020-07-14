@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireGame_Assign_F", "FireGame_Assign_F\FireGame_Assign_F.csproj", "{2E276367-D20A-4F99-8C9E-AE912AE87F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireGame_Assign_FTests", "FireGame_Assign_FTests\FireGame_Assign_FTests.csproj", "{1A5D97C6-AF57-439A-BF4E-CC7430E5A406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E276367-D20A-4F99-8C9E-AE912AE87F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E276367-D20A-4F99-8C9E-AE912AE87F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E276367-D20A-4F99-8C9E-AE912AE87F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E276367-D20A-4F99-8C9E-AE912AE87F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5D97C6-AF57-439A-BF4E-CC7430E5A406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5D97C6-AF57-439A-BF4E-CC7430E5A406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5D97C6-AF57-439A-BF4E-CC7430E5A406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5D97C6-AF57-439A-BF4E-CC7430E5A406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB31801-CD94-4565-9CBC-41014E99BECD}
+	EndGlobalSection
+EndGlobal
